@@ -1,8 +1,21 @@
-# React + Vite
+Miracle Malaquias Nwogwugwu - Web Developer Portfolio
+Este proyecto es mi portafolio personal como desarrollador web junior con estudios en derecho y filosofía. Aquí presento mi experiencia, habilidades y proyectos relevantes en el mundo del desarrollo web.
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Acerca de mí
+¡Hola! Soy Miracle Malaquias Nwogwugwu, un apasionado desarrollador web junior con una formación única en derecho y filosofía. Mi enfoque es combinar mi sólido conocimiento académico con mis habilidades técnicas para crear soluciones web innovadoras y eficientes.
 
-Currently, two official plugins are available:
+Tecnologías y Habilidades
+Lenguajes de Programación:
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+HTML
+CSS
+JavaScript
+Frameworks y Bibliotecas:
+
+React
+Sass/SCSS
+Herramientas y Plataformas:
+
+Git
+GitHub
+Visual Studio Code
